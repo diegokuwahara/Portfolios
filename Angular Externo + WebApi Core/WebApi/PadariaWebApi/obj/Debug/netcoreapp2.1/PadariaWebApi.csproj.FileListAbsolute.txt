@@ -1,0 +1,14 @@
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\bin\Debug\netcoreapp2.1\PadariaWebApi.deps.json
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\bin\Debug\netcoreapp2.1\PadariaWebApi.runtimeconfig.json
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\bin\Debug\netcoreapp2.1\PadariaWebApi.runtimeconfig.dev.json
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\bin\Debug\netcoreapp2.1\PadariaWebApi.dll
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\obj\Debug\netcoreapp2.1\PadariaWebApi.csprojAssemblyReference.cache
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\obj\Debug\netcoreapp2.1\PadariaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\obj\Debug\netcoreapp2.1\PadariaWebApi.RazorAssemblyInfo.cache
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\obj\Debug\netcoreapp2.1\PadariaWebApi.RazorAssemblyInfo.cs
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\obj\Debug\netcoreapp2.1\PadariaWebApi.AssemblyInfoInputs.cache
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\obj\Debug\netcoreapp2.1\PadariaWebApi.AssemblyInfo.cs
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\obj\Debug\netcoreapp2.1\PadariaWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\bin\Debug\netcoreapp2.1\PadariaWebApi.pdb
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\obj\Debug\netcoreapp2.1\PadariaWebApi.dll
+C:\Users\Kuwahara\source\repos\PadariaWebApi\PadariaWebApi\obj\Debug\netcoreapp2.1\PadariaWebApi.pdb
